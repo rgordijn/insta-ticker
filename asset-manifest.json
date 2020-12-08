@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/insta-ticker/static/css/main.423b81d0.chunk.css",
+    "main.js": "/insta-ticker/static/js/main.54b107ce.chunk.js",
+    "main.js.map": "/insta-ticker/static/js/main.54b107ce.chunk.js.map",
+    "runtime-main.js": "/insta-ticker/static/js/runtime-main.c07d5332.js",
+    "runtime-main.js.map": "/insta-ticker/static/js/runtime-main.c07d5332.js.map",
+    "static/js/2.dbedf227.chunk.js": "/insta-ticker/static/js/2.dbedf227.chunk.js",
+    "static/js/2.dbedf227.chunk.js.map": "/insta-ticker/static/js/2.dbedf227.chunk.js.map",
+    "static/js/3.9c85417f.chunk.js": "/insta-ticker/static/js/3.9c85417f.chunk.js",
+    "static/js/3.9c85417f.chunk.js.map": "/insta-ticker/static/js/3.9c85417f.chunk.js.map",
+    "index.html": "/insta-ticker/index.html",
+    "static/css/main.423b81d0.chunk.css.map": "/insta-ticker/static/css/main.423b81d0.chunk.css.map",
+    "static/js/2.dbedf227.chunk.js.LICENSE.txt": "/insta-ticker/static/js/2.dbedf227.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c07d5332.js",
+    "static/js/2.dbedf227.chunk.js",
+    "static/css/main.423b81d0.chunk.css",
+    "static/js/main.54b107ce.chunk.js"
+  ]
+}
