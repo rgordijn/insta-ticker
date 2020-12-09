@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/insta-ticker/static/css/main.423b81d0.chunk.css",
-    "main.js": "/insta-ticker/static/js/main.abfc5a73.chunk.js",
-    "main.js.map": "/insta-ticker/static/js/main.abfc5a73.chunk.js.map",
+    "main.js": "/insta-ticker/static/js/main.ecc1af3c.chunk.js",
+    "main.js.map": "/insta-ticker/static/js/main.ecc1af3c.chunk.js.map",
     "runtime-main.js": "/insta-ticker/static/js/runtime-main.c07d5332.js",
     "runtime-main.js.map": "/insta-ticker/static/js/runtime-main.c07d5332.js.map",
     "static/js/2.dbedf227.chunk.js": "/insta-ticker/static/js/2.dbedf227.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c07d5332.js",
     "static/js/2.dbedf227.chunk.js",
     "static/css/main.423b81d0.chunk.css",
-    "static/js/main.abfc5a73.chunk.js"
+    "static/js/main.ecc1af3c.chunk.js"
   ]
 }
